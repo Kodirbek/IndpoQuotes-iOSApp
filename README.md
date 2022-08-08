@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# I have completed this project with the help of iOS bootcamp course on udemy.com. Thank you for your time and effort to review this app.  
 
 # InspoQuotes
 
